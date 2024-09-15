@@ -91,6 +91,13 @@
         "Thumb" : "static/daisy.jpg"
     },
     {
+        "Name" : "Annas Archive",
+        "Description" : "The world’s largest open-source open-data library",
+        "Category" : "Featured",
+        "URL" : "https://annas-archive.org/",
+        "Thumb" : "static/annas-archive.jpg"
+    },
+    {
         "Name" : "Ollama",
         "Description" : "Get up and running with large language models.",
         "Category" : "AI",
