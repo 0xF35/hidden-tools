@@ -78,7 +78,7 @@
     },
     {
         "Name" : "Shadcn UI",
-        "Description" : "Beautifully designed components that you can copy and paste into your apps.",
+        "Description" : "Beautiful components that you can copy and paste into your apps.",
         "Category" : "Design",
         "URL" : "https://ui.shadcn.com/",
         "Thumb" : "static/shadcn.jpg"
