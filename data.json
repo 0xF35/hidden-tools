@@ -103,5 +103,12 @@
         "Category" : "AI",
         "URL" : "https://ollama.com/",
         "Thumb" : "static/ollama.jpg"
+    },
+    {
+        "Name" : "Privnote",
+        "Description" : "Send notes that will self-destruct after being read.",
+        "Category" : "Featured",
+        "URL" : "https://privnote.com/",
+        "Thumb" : "static/privnote.jpg"
     }
 ]
