@@ -85,7 +85,7 @@
     },
     {
         "Name" : "Daisy UI",
-        "Description" : "Free UI components for Tailwind CSS",
+        "Description" : "Free UI components library for Tailwind CSS",
         "Category" : "Design",
         "URL" : "https://daisyui.com/",
         "Thumb" : "static/daisy.jpg"
