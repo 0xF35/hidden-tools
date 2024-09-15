@@ -89,5 +89,12 @@
         "Category" : "Design",
         "URL" : "https://daisyui.com/",
         "Thumb" : "static/daisy.jpg"
+    },
+    {
+        "Name" : "Ollama",
+        "Description" : "Get up and running with large language models.",
+        "Category" : "AI",
+        "URL" : "https://ollama.com/",
+        "Thumb" : "static/ollama.jpg"
     }
 ]
