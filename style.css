@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Syne:wght@400..800&display=swap');
+
+.syne{
+    font-family: 'Syne';
+}
+
+.inter{
+    font-family: 'Inter';
+}
+
+.montserrat{
+    font-family: 'Montserrat';
+}
+
+.border-1{
+    border: 1px solid #4f4f4f;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+.card-hover:hover{
+    border: 1px solid white
+}

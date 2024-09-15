@@ -1,0 +1,93 @@
+[
+    {
+        "Name" : "Ray.so",
+        "Description" : "Create beautiful images of your code, customize it, and share it.",
+        "Category" : "Featured",
+        "URL" : "https://ray.so/",
+        "Thumb" : "static/ray_so.jpg"
+    },
+    {
+        "Name" : "MicroAquire",
+        "Description" : "Buy and sell SaaS startups in as little as 90 days.",
+        "Category" : "Featured",
+        "URL" : "https://acquire.com/",
+        "Thumb" : "static/aquire.jpg"
+    },
+    {
+        "Name" : "Radix Icons",
+        "Description" : "A crisp set of 15×15 icons designed by the WorkOS team.",
+        "Category" : "Icons",
+        "URL" : "https://www.radix-ui.com/icons",
+        "Thumb" : "static/radix.jpg"
+    },
+    {
+        "Name" : "Snoopie",
+        "Description" : "Spy on Shopify stores and monitor price and product changes.",
+        "Category" : "Marketing",
+        "URL" : "https://snoopie.live/",
+        "Thumb" : "static/snoopie.jpg"
+    },
+    {
+        "Name" : "Peekalink",
+        "Description" : "The most advanced and reliable link preview service for developers.",
+        "Category" : "APIs",
+        "URL" : "https://peekalink.io/",
+        "Thumb" : "static/peekalink.jpg"
+    },
+    {
+        "Name" : "Vzy Icons",
+        "Description" : "Beautiful SVG icons to enhance your apps and websites.",
+        "Category" : "Icons",
+        "URL" : "https://icons.vzy.co/",
+        "Thumb" : "static/vzy.jpg"
+    },
+    {
+        "Name" : "Tailwind Css",
+        "Description" : "Tailwind CSS is a utility-first CSS framework.",
+        "Category" : "Design",
+        "URL" : "https://tailwindcss.com/",
+        "Thumb" : "static/tailwind.jpg"
+    },
+    {
+        "Name" : "Testimonial",
+        "Description" : "Collect and display video testimonials, in minutes",
+        "Category" : "Marketing",
+        "URL" : "https://testimonial.to/",
+        "Thumb" : "static/testimonal.jpg"
+    },
+    {
+        "Name" : "Framer",
+        "Description" : "Design and publish modern sites at any scale.",
+        "Category" : "Design",
+        "URL" : "https://www.framer.com/",
+        "Thumb" : "static/framer.jpg"
+    },
+    {
+        "Name" : "Recall AI",
+        "Description" : "Remember anything. Recall effortlessly.",
+        "Category" : "AI",
+        "URL" : "https://www.recallai.me/",
+        "Thumb" : "static/recallai.jpg"
+    },
+    {
+        "Name" : "Open Peeps",
+        "Description" : "hand-drawn illustration library to create scenes of people.",
+        "Category" : "Illustration",
+        "URL" : "https://www.openpeeps.com/",
+        "Thumb" : "static/open_peeps.jpg"
+    },
+    {
+        "Name" : "Shadcn UI",
+        "Description" : "Beautifully designed components that you can copy and paste into your apps.",
+        "Category" : "Design",
+        "URL" : "https://ui.shadcn.com/",
+        "Thumb" : "static/shadcn.jpg"
+    },
+    {
+        "Name" : "Daisy UI",
+        "Description" : "Free UI components for Tailwind CSS",
+        "Category" : "Design",
+        "URL" : "https://daisyui.com/",
+        "Thumb" : "static/daisy.jpg"
+    }
+]
