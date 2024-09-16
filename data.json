@@ -110,5 +110,26 @@
         "Category" : "Featured",
         "URL" : "https://mail.tm/",
         "Thumb" : "static/mail-tm.jpg"
-    }
+    },
+    {
+        "Name" : "Draw.io",
+        "Description" : "draw.io is a free online diagramming application and flowchart maker",
+        "Category" : "Design",
+        "URL" : "https://draw.io/",
+        "Thumb" : "static/draw-io.jpg"
+    },
+    {
+        "Name" : "Ninite",
+        "Description" : "The easiest, fastest way to update or install software.",
+        "Category" : "Featured",
+        "URL" : "https://ninite.com/",
+        "Thumb" : "static/ninite.jpg"
+    },
+    {
+        "Name" : "Kiddle",
+        "Description" : "Kiddle is a safe search engine, offering a safe web, image, and video search.",
+        "Category" : "Featured",
+        "URL" : "https://www.kiddle.co/",
+        "Thumb" : "static/kiddle.jpg"
+    },
 ]
