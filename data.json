@@ -63,13 +63,6 @@
         "Thumb" : "static/framer.jpg"
     },
     {
-        "Name" : "Recall AI",
-        "Description" : "Remember anything. Recall effortlessly.",
-        "Category" : "AI",
-        "URL" : "https://www.recallai.me/",
-        "Thumb" : "static/recallai.jpg"
-    },
-    {
         "Name" : "Open Peeps",
         "Description" : "hand-drawn illustration library to create scenes of people.",
         "Category" : "Illustration",
