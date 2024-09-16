@@ -100,7 +100,7 @@
     {
         "Name" : "Ollama",
         "Description" : "Get up and running with large language models.",
-        "Category" : "AI",
+        "Category" : "Software",
         "URL" : "https://ollama.com/",
         "Thumb" : "static/ollama.jpg"
     },
@@ -121,7 +121,7 @@
     {
         "Name" : "Ninite",
         "Description" : "The easiest, fastest way to update or install software.",
-        "Category" : "Featured",
+        "Category" : "Software",
         "URL" : "https://ninite.com/",
         "Thumb" : "static/ninite.jpg"
     },
