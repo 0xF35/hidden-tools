@@ -127,7 +127,7 @@
     },
     {
         "Name" : "Kiddle",
-        "Description" : "Kiddle is a safe search engine, offering a safe web, image, and video search.",
+        "Description" : "Safe search engine for kids, offering a safe web, image, and video search.",
         "Category" : "Featured",
         "URL" : "https://www.kiddle.co/",
         "Thumb" : "static/kiddle.jpg"
