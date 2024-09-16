@@ -121,8 +121,15 @@
     {
         "Name" : "Kiddle",
         "Description" : "Safe search engine for kids, offering a safe web, image, and video search.",
-        "Category" : "Featured",
+        "Category" : "Search_Engine",
         "URL" : "https://www.kiddle.co/",
         "Thumb" : "static/kiddle.jpg"
+    },
+    {
+        "Name" : "Openverse",
+        "Description" : "Search free and openly licensed media types for reuse and remixing",
+        "Category" : "Search_Engine",
+        "URL" : "https://openverse.org/",
+        "Thumb" : "static/openverse.jpg"
     }
 ]
