@@ -141,7 +141,7 @@
     },
     {
         "Name" : "IPify",
-        "Description" : "Simple public IP address API, integrate into any application in seconds.",
+        "Description" : "Simple public IP address API that can integrate into any application.",
         "Category" : "APIs",
         "URL" : "https://www.ipify.org/",
         "Thumb" : "static/ipify.jpg"
