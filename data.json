@@ -1,5 +1,12 @@
 [
     {
+        "Name" : "Mail.tm",
+        "Description" : "Free to use temporary email to register on dubious sites.",
+        "Category" : "Featured",
+        "URL" : "https://mail.tm/",
+        "Thumb" : "static/mail-tm.jpg"
+    },
+    {
         "Name" : "Ray.so",
         "Description" : "Create beautiful images of your code, customize it, and share it.",
         "Category" : "Design",
@@ -96,13 +103,6 @@
         "Category" : "Software",
         "URL" : "https://ollama.com/",
         "Thumb" : "static/ollama.jpg"
-    },
-    {
-        "Name" : "Mail.tm",
-        "Description" : "Free to use temporary email to register on dubious sites.",
-        "Category" : "Featured",
-        "URL" : "https://mail.tm/",
-        "Thumb" : "static/mail-tm.jpg"
     },
     {
         "Name" : "Draw.io",
