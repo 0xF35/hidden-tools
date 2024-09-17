@@ -145,5 +145,12 @@
         "Category" : "APIs",
         "URL" : "https://www.ipify.org/",
         "Thumb" : "static/ipify.jpg"
+    },
+    {
+        "Name" : "Roadmap",
+        "Description" : "Roadmaps, Articles and Guides for developers to grow in their career.",
+        "Category" : "Featured",
+        "URL" : "https://roadmap.sh/",
+        "Thumb" : "static/roadmap.jpg"
     }
 ]
