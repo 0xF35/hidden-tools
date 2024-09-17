@@ -131,5 +131,12 @@
         "Category" : "Search_Engine",
         "URL" : "https://openverse.org/",
         "Thumb" : "static/openverse.jpg"
+    },
+    {
+        "Name" : "PDF.ai",
+        "Description" : "Chat with any PDF: ask questions, get summaries, find anything you need!",
+        "Category" : "AI",
+        "URL" : "https://pdf.ai/",
+        "Thumb" : "static/pdf-ai.jpg"
     }
 ]
