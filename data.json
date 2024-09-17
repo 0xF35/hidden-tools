@@ -138,5 +138,12 @@
         "Category" : "AI",
         "URL" : "https://pdf.ai/",
         "Thumb" : "static/pdf-ai.jpg"
+    },
+    {
+        "Name" : "IPify",
+        "Description" : "Simple public IP address API, integrate into any application in seconds.",
+        "Category" : "APIs",
+        "URL" : "https://www.ipify.org/",
+        "Thumb" : "static/ipify.jpg"
     }
 ]
