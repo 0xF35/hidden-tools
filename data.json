@@ -2,14 +2,14 @@
     {
         "Name" : "Ray.so",
         "Description" : "Create beautiful images of your code, customize it, and share it.",
-        "Category" : "Featured",
+        "Category" : "Design",
         "URL" : "https://ray.so/",
         "Thumb" : "static/ray_so.jpg"
     },
     {
         "Name" : "MicroAquire",
         "Description" : "Buy and sell SaaS startups in as little as 90 days.",
-        "Category" : "Featured",
+        "Category" : "Marketing",
         "URL" : "https://acquire.com/",
         "Thumb" : "static/aquire.jpg"
     },
