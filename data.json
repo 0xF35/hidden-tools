@@ -152,5 +152,12 @@
         "Category" : "Featured",
         "URL" : "https://roadmap.sh/",
         "Thumb" : "static/roadmap.jpg"
+    },
+    {
+        "Name" : "Heroicons",
+        "Description" : "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+        "Category" : "Featured",
+        "URL" : "https://heroicons.com/",
+        "Thumb" : "static/hero-icons.jpg"
     }
 ]
