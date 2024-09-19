@@ -156,8 +156,15 @@
     {
         "Name" : "Heroicons",
         "Description" : "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
-        "Category" : "Featured",
+        "Category" : "Icons",
         "URL" : "https://heroicons.com/",
         "Thumb" : "static/hero-icons.jpg"
+    },
+    {
+        "Name" : "Lucide",
+        "Description" : "Beautiful & consistent icon toolkit made by the community.",
+        "Category" : "Icons",
+        "URL" : "https://lucide.dev/icons/",
+        "Thumb" : "static/lucide.jpg"
     }
 ]
