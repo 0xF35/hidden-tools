@@ -166,5 +166,12 @@
         "Category" : "Icons",
         "URL" : "https://lucide.dev/icons/",
         "Thumb" : "static/lucide.jpg"
+    },
+    {
+        "Name" : "Lummi",
+        "Description" : "Browse our collection of unique, royalty-free AI stock photos.",
+        "Category" : "Design",
+        "URL" : "https://www.lummi.ai/",
+        "Thumb" : "static/lummi.png"
     }
 ]
