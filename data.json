@@ -173,5 +173,12 @@
         "Category" : "Design",
         "URL" : "https://www.lummi.ai/",
         "Thumb" : "static/lummi.png"
+    },
+    {
+        "Name" : "UIdesign",
+        "Description" : "Learn UI & UX Design with practical byte-sized tips and in-depth articles.",
+        "Category" : "Design",
+        "URL" : "https://www.uidesign.tips/",
+        "Thumb" : "static/uidesign.jpg"
     }
 ]
