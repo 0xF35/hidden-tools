@@ -183,7 +183,7 @@
     },
     {
         "Name" : "Token v1",
-        "Description" : "Secure Client-side password generation tool, Strong Passwords for Everything.",
+        "Description" : "Secure Client-side password generation tool, Strong Passwords for All.",
         "Category" : "Security",
         "URL" : "https://token-v1.vercel.app/",
         "Thumb" : "static/token-v1.jpg"
