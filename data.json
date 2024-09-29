@@ -182,8 +182,15 @@
         "Thumb" : "static/uidesign.jpg"
     },
     {
+        "Name" : "Mockup Phone",
+        "Description" : "tool that helps you wrap app screenshots in different mobile devices.",
+        "Category" : "Design",
+        "URL" : "https://mockuphone.com/",
+        "Thumb" : "static/mockuphone.jpg"
+    },
+        {
         "Name" : "Token v1",
-        "Description" : "Secure Client-side password generation tool, Strong Passwords for All.",
+        "Description" : "Client-side password generation tool, Strong Passwords for Everything.",
         "Category" : "Security",
         "URL" : "https://token-v1.vercel.app/",
         "Thumb" : "static/token-v1.jpg"
