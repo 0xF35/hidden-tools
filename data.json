@@ -196,6 +196,13 @@
         "Thumb" : "static/stackedit.jpg"
     },
     {
+        "Name" : "Mockey",
+        "Description" : "Create free Mockups online with Mockey AI Mockup Generator.",
+        "Category" : "Design",
+        "URL" : "https://mockey.ai/",
+        "Thumb" : "static/mockey.jpg"
+    },
+    {
         "Name" : "Token v1",
         "Description" : "Client-side password generation tool, Strong Passwords for Everything.",
         "Category" : "Security",
