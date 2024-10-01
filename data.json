@@ -188,7 +188,14 @@
         "URL" : "https://mockuphone.com/",
         "Thumb" : "static/mockuphone.jpg"
     },
-        {
+    {
+        "Name" : "Stackedit",
+        "Description" : "Full-featured, open-source Markdown editor based on PageDown.",
+        "Category" : "Editor",
+        "URL" : "https://stackedit.io/",
+        "Thumb" : "static/stackedit.jpg"
+    },
+    {
         "Name" : "Token v1",
         "Description" : "Client-side password generation tool, Strong Passwords for Everything.",
         "Category" : "Security",
