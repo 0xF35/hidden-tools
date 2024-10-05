@@ -203,6 +203,13 @@
         "Thumb" : "static/mockey.jpg"
     },
     {
+        "Name" : "Arc",
+        "Description" : "Experience a calmer, more personal internet in this browser.",
+        "Category" : "Browser",
+        "URL" : "https://arc.net/",
+        "Thumb" : "static/og.png"
+    },
+    {
         "Name" : "Token v1",
         "Description" : "Client-side password generation tool, Strong Passwords for Everything.",
         "Category" : "Security",
